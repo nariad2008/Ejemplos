@@ -1,0 +1,6 @@
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\bin\Debug\pmkWin.exe.config
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\bin\Debug\pmkWin.exe
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\bin\Debug\pmkWin.pdb
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\obj\Debug\pmkWin.csprojResolveAssemblyReference.cache
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\obj\Debug\pmkWin.exe
+C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\pmkWin\pmkWin\obj\Debug\pmkWin.pdb
