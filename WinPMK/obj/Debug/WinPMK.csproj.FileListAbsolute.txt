@@ -6,3 +6,6 @@ C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\WinPMK\WinPMK\obj\Debug\WinPMK.Prop
 C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\WinPMK\WinPMK\obj\Debug\WinPMK.csproj.GenerateResource.Cache
 C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\WinPMK\WinPMK\obj\Debug\WinPMK.exe
 C:\Users\dayran\Desktop\EjemplosGIT\Ejemplos\WinPMK\WinPMK\obj\Debug\WinPMK.pdb
+C:\Users\dayran\Desktop\ExampleGIT\WinPMK\bin\Debug\WinPMK.exe.config
+C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.exe
+C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.pdb
