@@ -1,9 +1,0 @@
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\bin\Release\WinPMK.exe.config
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\bin\Release\WinPMK.exe
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\bin\Release\WinPMK.pdb
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.csprojResolveAssemblyReference.cache
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.Form1.resources
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.Properties.Resources.resources
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.csproj.GenerateResource.Cache
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.exe
-C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Release\WinPMK.pdb
