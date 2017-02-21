@@ -7,3 +7,4 @@ C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.Properties.Resources.
 C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.csproj.GenerateResource.Cache
 C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.exe
 C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.pdb
+C:\Users\dayran\Desktop\ExampleGIT\WinPMK\obj\Debug\WinPMK.Form1.resources
