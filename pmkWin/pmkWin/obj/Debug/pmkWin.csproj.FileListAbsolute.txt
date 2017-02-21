@@ -9,4 +9,9 @@ C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\obj\Debug\pmkWin.exe
 C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\obj\Debug\pmkWin.pdb
 C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\pmkWin.exe
 C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\pmkWin.pdb
-C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\obj\Debug\pmkWin.csprojResolveAssemblyReference.cache
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dayran\Desktop\ExampleGIT\Example\pmkWin\pmkWin\bin\Debug\System.Reflection.Metadata.xml
